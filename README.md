@@ -63,28 +63,18 @@ cd ZenDrone-clone
 
 # 3️⃣ Open index.html in your browser 🌐
 
----
-
 📸 Screenshots
-
 <img width="1350" height="624" alt="zenDrone" src="https://github.com/user-attachments/assets/ec3f40d7-29e5-4699-8732-5924c18dad9d" />
-
----
-
 💡 Usage
 
 Feel free to customize images, styles, or animations to make it your own. 🎨
 This project is perfect as a portfolio piece for showcasing frontend skills. 💼
 
----
-
 🤝 Contact Me
 
 👩‍💻 Khadija Asif – Jr Frontend Developer
-<br>
 ✉️ Email: khadijaasif230@gmail.com
-<br>
+
 🔗 LinkedIn: linkedin.com/in/khadija-asif-025311289
 
----
 ⭐ Don’t forget to star this repo if you like it! 🌟
