@@ -6,17 +6,29 @@ Built with **HTML**, **CSS**, and **JavaScript** to showcase frontend design and
 ---
 
 ## 📂 Project Structure
+<br>
 ZenDrone-clone/
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 ├── style.js
+<br>
 ├── /assets
+<br>
 │ ├── Group-3837.png
+<br>
 │ ├── Group-3840.png
+<br>
 │ ├── … (other images)
+<br>
 │ ├── slide-image.jpg
+<br>
 │ └── …
+<br>
 └── README.md
+<br>
 
 
 ---
@@ -54,7 +66,8 @@ cd ZenDrone-clone
 ---
 
 📸 Screenshots
-<img width="1353" height="633" alt="image" src="https://github.com/user-attachments/assets/11ac0322-15c8-4c2b-a39c-5aef8ef12550" />
+
+<img width="1350" height="624" alt="zenDrone" src="https://github.com/user-attachments/assets/ec3f40d7-29e5-4699-8732-5924c18dad9d" />
 
 ---
 
