@@ -60,8 +60,9 @@ This project is perfect as a portfolio piece for showcasing frontend skills. �
 ## 🤝 Contact Me
 
 👩‍💻 Khadija Asif – Jr Frontend Developer
+<br>
 ✉️ Email: khadijaasif230@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/khadija-asif-025311289
+<br>
+💼 **LinkedIn:** [linkedin.com/in/khadija-asif-025311289](https://www.linkedin.com/in/khadija-asif-025311289)
 
 ⭐ Don’t forget to star this repo if you like it! 🌟
