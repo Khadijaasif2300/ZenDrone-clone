@@ -50,19 +50,6 @@ ZenDrone-clone/
 
 ---
 
-## 🚀 Getting Started
-
-Run this project locally with these simple steps:
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/Khadijaasif2300/ZenDrone-clone.git
-
-# 2️⃣ Move into the project folder
-cd ZenDrone-clone
-
-# 3️⃣ Open index.html in your browser 🌐
-
 📸 Screenshots
 <img width="1350" height="624" alt="zenDrone" src="https://github.com/user-attachments/assets/ec3f40d7-29e5-4699-8732-5924c18dad9d" />
 💡 Usage
