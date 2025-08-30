@@ -50,14 +50,14 @@ ZenDrone-clone/
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 <img width="1350" height="624" alt="zenDrone" src="https://github.com/user-attachments/assets/ec3f40d7-29e5-4699-8732-5924c18dad9d" />
 💡 Usage
 
 Feel free to customize images, styles, or animations to make it your own. 🎨
 This project is perfect as a portfolio piece for showcasing frontend skills. 💼
 
-🤝 Contact Me
+## 🤝 Contact Me
 
 👩‍💻 Khadija Asif – Jr Frontend Developer
 ✉️ Email: khadijaasif230@gmail.com
